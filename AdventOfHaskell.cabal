@@ -26,7 +26,7 @@ source-repository head
 library
   exposed-modules:
       Day01.Day01
-      Helpers.Reader
+      Day02.Day02
   other-modules:
       Paths_AdventOfHaskell
   autogen-modules:
